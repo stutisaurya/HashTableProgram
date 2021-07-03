@@ -15,7 +15,10 @@ public class Runner {
 		map.add(9, 19);
 		map.size();
 		System.out.println("The size is: " + map.size());
+		map.get(8);
+		System.out.println("The get value is :" + map.get(8));
 		map.display();
+
 	}
 
 }
